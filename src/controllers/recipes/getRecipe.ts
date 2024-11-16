@@ -27,7 +27,7 @@ export async function getRecipe(req, res) {
       ],
       cookingTime: 30,
       instructions: [
-        "Cook pasta according to package instructions",
+        "Cook pasta according to package",
         "Season chicken with salt, pepper, Italian seasoning, and paprika",
         "Heat 2 tbsp butter in a skillet over medium-high heat",
         "Add chicken and cook until golden brown",
